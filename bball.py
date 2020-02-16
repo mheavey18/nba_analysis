@@ -10,7 +10,7 @@
 #     for row in spamreader:
 #         print(', '.join(row))
 
-names = {
+names_dict = {
     "Atlanta": "ATL",
     "Boston": "BOS",
     "Brooklyn": "BKN",
